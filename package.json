@@ -2,7 +2,7 @@
   "name": "youcook_b",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Sylvain Contamin",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -31,7 +31,7 @@
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
     "@nestjs/schematics": "^9.0.0",
-    "@nestjs/testing": "^9.0.0",
+    "@nestjs/testing": "^9.0.11",
     "@types/express": "^4.17.13",
     "@types/jest": "28.1.8",
     "@types/node": "^16.0.0",
